@@ -10,5 +10,14 @@ TRAVEL TIMES
 DIABEIES
 CREATING DATA FRAME
 apriori
-mean
-12
+mode
+ass1
+ass2
+ass3
+chisquare
+add
+sub
+mul
+div
+confusion matrix
+21

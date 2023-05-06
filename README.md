@@ -20,4 +20,7 @@ sub
 mul
 div
 confusion matrix
-21
+mean
+median
+histogram
+24
